@@ -1,4 +1,4 @@
-# My_Repo_1
+ # My_Repo_1
 My first Repo for project.
 <br>
-Author-Kirti Ranjan
+Author-Kirti Ranjan mishra
